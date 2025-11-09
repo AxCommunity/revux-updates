@@ -1,1 +1,1 @@
-https://github.com/AxCommunity/revux-updates/releases/download/v1.0.0/Revux-v1.0.0.zip
+https://github.com/AxCommunity/revux-updates/releases/download/v1.0.0.1/Revux-v1.0.0.1.zip
